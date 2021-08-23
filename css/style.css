@@ -35,6 +35,20 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .icon.icon-skype { background-position: 0px -64px; }
 .icon.icon-email { background-position: 0px -96px; }
 
+.contact-Row { 
+	margin-left: 15%;
+} 
+
+.customicons li {
+	margin: 20px;
+}
+.customicons li svg{
+	margin-top: 15px;
+	margin-right: 20px;
+}
+
+ 
+
 .dp_img{
 	border-radius: 180px;
 	border: 10px solid #faf3d9;
